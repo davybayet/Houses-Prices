@@ -19,3 +19,4 @@ pip install --upgrade scikit-learn
 
 Open `houses_kaggle_competition.ipynb` and follow instruction
 # Houses-Prices
+# Houses-Prices-Kaggle
